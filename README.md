@@ -1,7 +1,9 @@
 
-# Kirby Profile Card
+# 🥰 Kirby Profile Card
 
-A cute and simple profile card built with **React**! Meet Kirby — the noodle-loving, Bulbasaur-playing, sleep-enjoying puffball.
+A cute and simple profile card I built with **React** to practice **React**! Meet Kirby — the noodle-loving, Bulbasaur-playing, sleep-enjoying puffball.
+<br>
+**i know Theres no Relationship between Kirby and Bulbasaur**
 
 <img width="1920" height="1004" alt="pico" src="https://github.com/user-attachments/assets/67ea557f-3d3c-4e93-b8b2-e623525fcef0" />
 
